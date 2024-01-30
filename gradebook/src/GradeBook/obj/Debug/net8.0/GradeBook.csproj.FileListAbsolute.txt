@@ -1,0 +1,14 @@
+C:\CODE\.NET Projects\c#-pluralsight\gradebook\src\GradeBook\bin\Debug\net8.0\GradeBook.exe
+C:\CODE\.NET Projects\c#-pluralsight\gradebook\src\GradeBook\bin\Debug\net8.0\GradeBook.deps.json
+C:\CODE\.NET Projects\c#-pluralsight\gradebook\src\GradeBook\bin\Debug\net8.0\GradeBook.runtimeconfig.json
+C:\CODE\.NET Projects\c#-pluralsight\gradebook\src\GradeBook\bin\Debug\net8.0\GradeBook.dll
+C:\CODE\.NET Projects\c#-pluralsight\gradebook\src\GradeBook\bin\Debug\net8.0\GradeBook.pdb
+C:\CODE\.NET Projects\c#-pluralsight\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\.NET Projects\c#-pluralsight\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.AssemblyInfoInputs.cache
+C:\CODE\.NET Projects\c#-pluralsight\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.AssemblyInfo.cs
+C:\CODE\.NET Projects\c#-pluralsight\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\CODE\.NET Projects\c#-pluralsight\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.dll
+C:\CODE\.NET Projects\c#-pluralsight\gradebook\src\GradeBook\obj\Debug\net8.0\refint\GradeBook.dll
+C:\CODE\.NET Projects\c#-pluralsight\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.pdb
+C:\CODE\.NET Projects\c#-pluralsight\gradebook\src\GradeBook\obj\Debug\net8.0\GradeBook.genruntimeconfig.cache
+C:\CODE\.NET Projects\c#-pluralsight\gradebook\src\GradeBook\obj\Debug\net8.0\ref\GradeBook.dll
